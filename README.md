@@ -4,7 +4,7 @@ I am Konrad Paluszek, a mathematician and software developer, mostly expirienced
 I like chess, bridge, AI-art and competitive programming
 
 ## Projects
-<a href="https://github.com/ianfab/chess-variant-stats">
+<a href="https://github.com/kezsulap/SSO_MAX_CC">
   <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=kezsulap&repo=SSO_MAX_CC&theme=algolia" />
 </a>
 
