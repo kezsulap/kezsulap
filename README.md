@@ -14,9 +14,9 @@ I like chess, bridge, AI-art and competitive programming
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=TypeScript&logoColor=ffffff)
 
-![VS Code](https://img.shields.io/badge/VSCode-%23007ACC?logo=Visual-studio-code)
 ![Pycharm](https://img.shields.io/badge/PyCharm-green?logo=PyCharm)
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim)
+![VS Code](https://img.shields.io/badge/VSCode-%23007ACC?logo=Visual-studio-code)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=%23ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000000)
