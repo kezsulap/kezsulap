@@ -3,11 +3,40 @@ I am Konrad Paluszek, a mathematician and software developer, mostly expirienced
 
 I like chess, bridge, AI-art and competitive programming
 
-## Projects
+## Projects and contributions
 <a href="https://github.com/kezsulap/SSO_MAX_CC">
-  <img align="center" src="https://github-readme-stats-ianfab.vercel.app/api/pin/?username=kezsulap&repo=SSO_MAX_CC&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kezsulap&repo=SSO_MAX_CC&theme=algolia" />
 </a>
+<br>
+Built using
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=000000)
+![HTML](https://img.shields.io/badge/-HTML-f06529?&logo=HTML5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS-44cc11?&logo=CSS3&logoColor=ffffff)
+<br>
+
+<a href="https://github.com/gbtami/pychess-variants">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gbtami&repo=pychess-variants&theme=algolia" />
+</a>
+<br>
+My contribution to the code includes:
+
+- Implementing [displaying captured pieces next to the board](https://github.com/gbtami/pychess-variants/pull/650)
+- Implementing [sending link to rematch to spectators](https://github.com/gbtami/pychess-variants/commit/81fbea449f7da13f7b390a1eb9075a19f5be09dc)
+- Implementing [hold Ctrl while moving to disable automatic promotion to queen for one move](https://github.com/gbtami/pychess-variants/commit/56c69327b9266c279a2c7de2a64db742aaaea750)
+- Fixing a few bugs [1](https://github.com/gbtami/chessgroundx/pull/18/commits/fe1eb6d10674c67c13336366cbe933102589354c) [2](https://github.com/gbtami/pychess-variants/commit/1fe62cbad5bcfe5144a71832f3afdc9d0bfac41e) [3](https://github.com/gbtami/pychess-variants/commit/dfa0cba981938f868757b06ff6afa5a2137b3d7e)
+- Testing of new features resulting in a number of [bug reports](https://github.com/gbtami/pychess-variants/issues?q=author%3Akezsulap+label%3Abug+)
+
+<br>
+
+<a href="https://github.com/kezsulap/acmlib">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kezsulap&repo=acmlib&theme=algolia" />
+</a>
+<br>
+
+Includes some stuff coded by me and some from various online sources refactored by me.
+<br>
+My favourite: [How to hack C++ set/map to compute stuff like sum of elements less than X in under 200 lines of code](https://github.com/kezsulap/ACMLIB/blob/master/code/Data_Structures/SegmentSet.cpp)
 
 ## Technologies
 
@@ -31,8 +60,6 @@ I like chess, bridge, AI-art and competitive programming
 ## How to reach me
 [kezsulap\@gmail.com](mailto:kezsulap@gmail.com)
 
-## Me finding the best solution to a problem
-![Photo](https://raw.githubusercontent.com/kezsulap/kezsulap/main/Me.jpg)
 <!--
 **kezsulap/kezsulap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
