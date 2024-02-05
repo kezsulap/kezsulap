@@ -60,6 +60,8 @@ My favourite: [How to hack C++ set/map to compute stuff like sum of elements les
 ## How to reach me
 [kezsulap\@gmail.com](mailto:kezsulap@gmail.com)
 
+https://www.linkedin.com/in/konrad-paluszek-831b64249
+
 <!--
 **kezsulap/kezsulap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
